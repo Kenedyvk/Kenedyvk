@@ -1,130 +1,31 @@
-# 👨‍💻 Vinicius Kenedy
+# Olá, eu sou o Vinicius Kenedy 👋
 
-**`Desenvolvedor Web Júnior`**
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER e estou construindo minha carreira em tecnologia com foco em desenvolvimento web.
 
-Me chamo Vinicius Kenedy, sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER** e estou em transição para a área de desenvolvimento web. Tenho conhecimentos em **Python, JavaScript, HTML5, CSS3, SQL, MySQL, SQL Server, Git, GitHub, Docker e Redes de Computadores**.
+Antes de pensar em frameworks ou ferramentas, gosto de entender o problema e organizar uma solução que seja simples de usar. Foi assim que comecei meus projetos: alguns nasceram de necessidades do dia a dia, outros de estudos e desafios que eu queria transformar em algo útil.
 
-Tenho experiência com suporte técnico, manutenção de computadores, atendimento ao usuário e resolução de problemas. Atualmente busco oportunidades como **estagiário ou desenvolvedor web júnior**, onde eu possa aplicar meus conhecimentos em projetos reais e continuar evoluindo na área de TI.
+Hoje procuro uma oportunidade de estágio ou uma posição júnior em que eu possa aprender com um time, contribuir com projetos reais e continuar evoluindo como desenvolvedor.
 
-<p align="left">
-    <a href="https://github.com/Kenedyvk?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Kenedyvk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Kenedyvk?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kenedyvk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://linkedin.com/in/viniciuskennedy-17808a206">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+## Projetos em destaque
+
+- [Meu portfólio](https://github.com/Kenedyvk/Portifolio) — apresentação profissional feita em Angular, com projetos, experiência e blog.
+- [Styylus Barbearia](https://github.com/Kenedyvk/Styylus) — experiência de agendamento com React, TypeScript e estrutura de dados protegida no Supabase.
+- [NexusChat](https://github.com/Kenedyvk/NexusChat) — comunicação interna com mensagens em tempo real, agenda de reuniões e diretório de pessoas.
+- [Central de oportunidades SEFA](https://github.com/Kenedyvk/nextjs-boilerplate) — projeto focado em suporte, empregabilidade e evolução profissional, desenvolvido em Next.js.
+- [M&M Eventos](https://github.com/Kenedyvk/vivamm.com.br) — página comercial responsiva para apresentação de um pacote de coquetel.
+
+## O que venho estudando
+
+`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Angular` · `Next.js` · `SQL` · `MySQL` · `SQL Server` · `Git` · `Docker`
+
+Além do desenvolvimento, tenho experiência com suporte técnico, manutenção de computadores, atendimento a usuários e rotinas administrativas. Essa vivência me ensinou a explicar problemas com clareza, ter atenção aos detalhes e não desistir no primeiro erro.
+
+## Onde me encontrar
+
+- [Portfólio](https://kenedyvk.github.io/Portifolio/)
+- [LinkedIn](https://www.linkedin.com/in/viniciuskennedy-17808a206)
+- E-mail: `viniciuskennedy3@gmail.com`
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code"
-    title="VS Code" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kenedyvk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenedyvk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Métricas do GitHub](./github-metrics.svg)
