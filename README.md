@@ -15,33 +15,36 @@ Java 21 / Spring Boot backend focused on production-oriented engineering practic
 - Redis-ready infrastructure
 - Testcontainers integration tests
 - OpenAPI / Swagger
+- Dockerized runtime
 - GitHub Actions CI
 
-[View project](./projects/enterprise-api)
+[View project](https://github.com/Kenedyvk/enterprise-api)
 
 ### Nexus Platform
-Full-stack collaboration and resource-management platform.
+Collaboration and resource-management platform evolving from the NexusChat prototype.
 
 - Spring Boot backend
-- Angular frontend architecture
 - PostgreSQL + Flyway
 - Meeting-room conflict detection
-- Department-based access model
-- Real-time communication roadmap
+- Automated backend tests
+- Docker Compose with isolated local ports
+- Modular architecture ready for the Angular product layer
 
-[View project](./projects/nexus-platform)
+[View project](https://github.com/Kenedyvk/nexus-platform)
 
 ### Event-Driven Commerce
-Distributed backend project focused on messaging and resilient system design.
+Distributed backend focused on asynchronous messaging and resilient workflows.
 
-- Java / Spring Boot
+- Java 21 / Spring Boot
 - RabbitMQ
 - Transactional Outbox pattern
-- Idempotent consumer design
+- Idempotent inventory consumer
+- Stock reservation events
 - Eventual consistency
-- Dead-letter and retry strategy
+- Versioned event contracts
+- GitHub Actions CI
 
-[View project](./projects/event-driven-commerce)
+[View project](https://github.com/Kenedyvk/event-driven-commerce)
 
 ## Other projects
 
