@@ -19,7 +19,7 @@ Java 21 / Spring Boot backend focused on production-oriented engineering practic
 - Dockerized runtime
 - GitHub Actions CI
 
-[View project](https://github.com/Kenedyvk/enterprise-api)
+[Interactive API demo](https://enterprise-api-demo-eniac1.vercel.app) · [Source code](https://github.com/Kenedyvk/enterprise-api)
 
 ### Nexus Platform
 Full-stack collaboration and resource-management platform evolving from the NexusChat prototype.
@@ -33,7 +33,7 @@ Full-stack collaboration and resource-management platform evolving from the Nexu
 - Full-stack Docker Compose runtime
 - GitHub Actions CI
 
-[View project](https://github.com/Kenedyvk/nexus-platform)
+[Live product demo](https://nexus-platform-demo-eniac1.vercel.app) · [Source code](https://github.com/Kenedyvk/nexus-platform)
 
 ### Event-Driven Commerce
 Distributed backend focused on asynchronous messaging and resilient workflows.
@@ -49,13 +49,13 @@ Distributed backend focused on asynchronous messaging and resilient workflows.
 - Automated service tests
 - GitHub Actions CI
 
-[View project](https://github.com/Kenedyvk/event-driven-commerce)
+[Interactive architecture demo](https://event-driven-commerce-demo-eniac1.vercel.app) · [Source code](https://github.com/Kenedyvk/event-driven-commerce)
 
 ## Other projects
 
-- [Portfolio](https://github.com/Kenedyvk/portfolio) — Angular 21 portfolio with Sanity CMS and automated deployment.
-- [Styylus](https://github.com/Kenedyvk/Styylus) — appointment platform using React, TypeScript and Supabase/PostgreSQL.
-- [NexusChat](https://github.com/Kenedyvk/NexusChat) — functional real-time communication prototype built with Fastify and Socket.IO.
+- [Portfolio](https://kenedyvk.github.io/portfolio/) · [Source](https://github.com/Kenedyvk/portfolio) — Angular 21 portfolio with Sanity CMS and automated deployment.
+- [Styylus live demo](https://styylus-demo-eniac1.vercel.app) · [Source](https://github.com/Kenedyvk/Styylus) — appointment platform using React, TypeScript and Supabase/PostgreSQL.
+- [NexusChat prototype demo](https://nexuschat-demo-eniac1.vercel.app) · [Source](https://github.com/Kenedyvk/NexusChat) — functional real-time communication prototype built with Fastify and Socket.IO.
 
 ## Core stack
 
