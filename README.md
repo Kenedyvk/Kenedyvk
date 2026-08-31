@@ -1,31 +1,38 @@
-# Olá, eu sou o Vinicius Kenedy 👋
+# Hi, I'm Kenedy 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER e estou construindo minha carreira em tecnologia com foco em desenvolvimento web.
+Backend / Full Stack Developer focused on building reliable web applications and APIs with **Java, Spring Boot, Angular, PostgreSQL, Docker and AWS**.
 
-Antes de pensar em frameworks ou ferramentas, gosto de entender o problema e organizar uma solução que seja simples de usar. Foi assim que comecei meus projetos: alguns nasceram de necessidades do dia a dia, outros de estudos e desafios que eu queria transformar em algo útil.
+I enjoy turning real operational problems into simple, maintainable software. My experience combines software development, technical support and user-facing problem solving, which helps me think beyond implementation and understand how systems are actually used.
 
-Hoje procuro uma oportunidade de estágio ou uma posição júnior em que eu possa aprender com um time, contribuir com projetos reais e continuar evoluindo como desenvolvedor.
+I'm currently strengthening my backend engineering portfolio with production-oriented projects covering authentication, authorization, relational databases, caching, testing, CI/CD, containerization and event-driven architecture.
 
-## Projetos em destaque
+## Featured projects
 
-- [Meu portfólio](https://github.com/Kenedyvk/Portifolio) — apresentação profissional feita em Angular, com projetos, experiência e blog.
-- [Styylus Barbearia](https://github.com/Kenedyvk/Styylus) — experiência de agendamento com React, TypeScript e estrutura de dados protegida no Supabase.
-- [NexusChat](https://github.com/Kenedyvk/NexusChat) — comunicação interna com mensagens em tempo real, agenda de reuniões e diretório de pessoas.
-- [Central de oportunidades SEFA](https://github.com/Kenedyvk/nextjs-boilerplate) — projeto focado em suporte, empregabilidade e evolução profissional, desenvolvido em Next.js.
-- [M&M Eventos](https://github.com/Kenedyvk/vivamm.com.br) — página comercial responsiva para apresentação de um pacote de coquetel.
+- [Portfolio](https://github.com/Kenedyvk/Portifolio) — Angular-based professional portfolio with projects, experience, blog integration and automated deployment.
+- [NexusChat](https://github.com/Kenedyvk/NexusChat) — internal communication and resource management prototype with real-time messaging, meetings and operational dashboards.
+- [Styylus](https://github.com/Kenedyvk/Styylus) — appointment experience built with React, TypeScript and Supabase/PostgreSQL.
+- [Enterprise API](./projects/enterprise-api) — Java 21 / Spring Boot backend project focused on authentication, RBAC, PostgreSQL, Redis, testing and observability.
+- [Nexus Platform](./projects/nexus-platform) — full stack SaaS architecture with Spring Boot, Angular, PostgreSQL and Redis.
+- [Event-Driven Commerce](./projects/event-driven-commerce) — distributed architecture study using Java, messaging, idempotency and eventual consistency.
 
-## O que venho estudando
+## Core stack
 
-`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Angular` · `Next.js` · `SQL` · `MySQL` · `SQL Server` · `Git` · `Docker`
+`Java` · `Spring Boot` · `Angular` · `TypeScript` · `Python` · `PostgreSQL` · `SQL` · `Docker` · `Git` · `GitHub Actions` · `AWS`
 
-Além do desenvolvimento, tenho experiência com suporte técnico, manutenção de computadores, atendimento a usuários e rotinas administrativas. Essa vivência me ensinou a explicar problemas com clareza, ter atenção aos detalhes e não desistir no primeiro erro.
+## Engineering focus
 
-## Onde me encontrar
+REST APIs · Authentication & Authorization · Relational Data Modeling · Automated Testing · Dockerized Environments · CI/CD · Caching · Event-Driven Architecture · Clean Code
 
-- [Portfólio](https://kenedyvk.github.io/Portifolio/)
+## Career goal
+
+I'm open to **Backend / Full Stack Software Engineering opportunities in Europe**, including international teams and relocation opportunities.
+
+## Contact
+
+- [Portfolio](https://kenedyvk.github.io/Portifolio/)
 - [LinkedIn](https://www.linkedin.com/in/viniciuskennedy-17808a206)
-- E-mail: `viniciuskennedy3@gmail.com`
+- Email: `viniciuskennedy3@gmail.com`
 
 ---
 
-![Métricas do GitHub](./github-metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
