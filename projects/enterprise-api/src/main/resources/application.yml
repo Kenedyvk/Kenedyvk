@@ -7,11 +7,14 @@ spring:
     password: ${DB_PASSWORD:enterprise}
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: validate
     open-in-view: false
     properties:
       hibernate:
         format_sql: true
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
   data:
     redis:
       host: ${REDIS_HOST:localhost}
@@ -28,7 +31,7 @@ management:
 
 server:
   error:
-    include-message: always
+    include-message: never
 
 springdoc:
   swagger-ui:
