@@ -12,7 +12,8 @@ Java 21 / Spring Boot backend focused on production-oriented engineering practic
 - JWT authentication with RSA signatures
 - Role-based authorization
 - PostgreSQL + Flyway
-- Redis-ready infrastructure
+- Redis-backed business caching
+- Project CRUD with pagination and filtering
 - Testcontainers integration tests
 - OpenAPI / Swagger
 - Dockerized runtime
@@ -21,14 +22,16 @@ Java 21 / Spring Boot backend focused on production-oriented engineering practic
 [View project](https://github.com/Kenedyvk/enterprise-api)
 
 ### Nexus Platform
-Collaboration and resource-management platform evolving from the NexusChat prototype.
+Full-stack collaboration and resource-management platform evolving from the NexusChat prototype.
 
-- Spring Boot backend
+- Spring Boot backend + Angular 21 frontend
 - PostgreSQL + Flyway
 - Meeting-room conflict detection
-- Automated backend tests
-- Docker Compose with isolated local ports
-- Modular architecture ready for the Angular product layer
+- Frontend reservation flow connected to the REST API
+- Responsive operational workspace UI
+- Automated backend tests and frontend production build
+- Full-stack Docker Compose runtime
+- GitHub Actions CI
 
 [View project](https://github.com/Kenedyvk/nexus-platform)
 
@@ -40,8 +43,10 @@ Distributed backend focused on asynchronous messaging and resilient workflows.
 - Transactional Outbox pattern
 - Idempotent inventory consumer
 - Stock reservation events
-- Eventual consistency
+- Bounded retries + dead-letter queue
+- Notification Service
 - Versioned event contracts
+- Automated service tests
 - GitHub Actions CI
 
 [View project](https://github.com/Kenedyvk/event-driven-commerce)
