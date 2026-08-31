@@ -53,7 +53,7 @@ Distributed backend focused on asynchronous messaging and resilient workflows.
 
 ## Other projects
 
-- [Portfolio](https://github.com/Kenedyvk/Portifolio) — Angular 21 portfolio with Sanity CMS and automated deployment.
+- [Portfolio](https://github.com/Kenedyvk/portfolio) — Angular 21 portfolio with Sanity CMS and automated deployment.
 - [Styylus](https://github.com/Kenedyvk/Styylus) — appointment platform using React, TypeScript and Supabase/PostgreSQL.
 - [NexusChat](https://github.com/Kenedyvk/NexusChat) — functional real-time communication prototype built with Fastify and Socket.IO.
 
@@ -71,7 +71,7 @@ Open to **Backend / Full Stack Software Engineering opportunities in Europe**, i
 
 ## Contact
 
-- [Portfolio](https://kenedyvk.github.io/Portifolio/)
+- [Portfolio](https://kenedyvk.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/viniciuskennedy-17808a206)
 - Email: `viniciuskennedy3@gmail.com`
 
