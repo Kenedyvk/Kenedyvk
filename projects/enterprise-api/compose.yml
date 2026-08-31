@@ -27,6 +27,22 @@ services:
       timeout: 3s
       retries: 10
 
+  api:
+    build: .
+    environment:
+      DB_URL: jdbc:postgresql://postgres:5432/enterprise
+      DB_USER: enterprise
+      DB_PASSWORD: enterprise
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    ports:
+      - "8080:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
 volumes:
   enterprise_postgres:
   enterprise_redis:
