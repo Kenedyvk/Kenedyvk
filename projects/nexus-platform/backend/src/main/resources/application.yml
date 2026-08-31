@@ -2,7 +2,7 @@ spring:
   application:
     name: nexus-platform
   datasource:
-    url: ${DB_URL:jdbc:postgresql://localhost:5433/nexus}
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/nexus}
     username: ${DB_USER:nexus}
     password: ${DB_PASSWORD:nexus}
   jpa:
